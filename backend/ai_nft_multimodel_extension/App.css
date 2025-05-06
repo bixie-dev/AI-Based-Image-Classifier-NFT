@@ -1,0 +1,11 @@
+
+.App {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+input, select, button {
+    margin: 10px 0;
+    padding: 8px;
+    font-size: 16px;
+}

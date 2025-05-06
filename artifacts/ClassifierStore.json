@@ -1,0 +1,15 @@
+
+{
+  "abi": [
+    {
+      "inputs": [
+        { "internalType": "string", "name": "imageHash", "type": "string" },
+        { "internalType": "string", "name": "label", "type": "string" }
+      ],
+      "name": "storeClassification",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ]
+}

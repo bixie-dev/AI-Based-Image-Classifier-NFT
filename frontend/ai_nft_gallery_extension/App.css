@@ -1,0 +1,19 @@
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  padding: 20px;
+}
+
+.nft-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  width: 200px;
+}
+
+.nft-card img {
+  width: 100%;
+  border-radius: 4px;
+}

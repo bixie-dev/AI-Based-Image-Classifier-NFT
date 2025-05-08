@@ -1,0 +1,10 @@
+
+.dashboard {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+li {
+    margin-bottom: 20px;
+    list-style-type: none;
+}
